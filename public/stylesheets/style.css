@@ -1,0 +1,36 @@
+body {
+  padding: 15px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+img {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+form {
+  padding: 10px 0 10px 0;
+}
+
+.favitem {
+  padding: 20px 0 20px 0;
+}
+
+.favimage {
+  width: 200px;
+  display: inline;
+  border: 2px solid;
+}
+
+.favdate, .favtitle {
+  display: inline;
+  padding: 20px;
+}
+
+
+
